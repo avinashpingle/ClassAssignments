@@ -5,5 +5,11 @@
 	<classpathentry kind="lib" path="/Volumes/BOOTCAMP/JARs/jxl-2.6.12.jar"/>
 	<classpathentry kind="lib" path="/Users/Testing Shastra/Downloads/testng-6.14.3.jar" sourcepath="/Users/Testing Shastra/Downloads/testng-master.zip"/>
 	<classpathentry kind="lib" path="/Users/Testing Shastra/Downloads/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="/Volumes/BOOTCAMP/JARs/poi-4.0.1/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/BOOTCAMP/JARs/poi-4.0.1/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/BOOTCAMP/JARs/poi-4.0.1/ooxml-lib/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/Volumes/BOOTCAMP/JARs/poi-4.0.1/lib/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="/Volumes/BOOTCAMP/JARs/poi-4.0.1/lib/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="/Volumes/BOOTCAMP/JARs/poi-4.0.1/poi-ooxml-schemas-4.0.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

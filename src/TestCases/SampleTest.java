@@ -10,5 +10,6 @@ public class SampleTest {
 		System.out.println(srNo+"\t"+name+"\t"+phNo+"\t"+city);
 
 	}
+	
 
 }
